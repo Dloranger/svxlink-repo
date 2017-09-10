@@ -1,0 +1,22 @@
+Origin: svxlink
+Label: svxlink
+Suite: stable
+Codename: jessie
+Components: main
+#UDebComponents: main
+Architectures: source armhf arm64 i386 amd64
+Description: SVXLink Packages for Debian Jessie & stretch
+Contents: .gz
+#SignWith: 25E010CF
+
+Origin: svxlink
+Label: svxlink
+Suite: Release Stable
+Codename: stretch
+Components: main
+#UDebComponents: main
+Architectures: source armhf arm64 i386 amd64
+Description: SVXLink Packages for Debian stretch
+Contents: .gz
+#SignWith: 25E010CF
+
